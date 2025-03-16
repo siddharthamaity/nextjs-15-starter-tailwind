@@ -70,7 +70,7 @@ To enhance development experience, install the following VS Code extensions:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/nextjs-15-starter-tailwind.git
+    git clone https://github.com/siddharthamaity/nextjs-15-starter-tailwind.git
     cd nextjs-15-starter-tailwind
     ```
 
