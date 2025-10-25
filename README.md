@@ -1,5 +1,7 @@
 # Next.js 15 Starter (tailwind) [[LIVE DEMO](https://nextjs-15-starter-tailwind.vercel.app/)]
 
+> **⚠️ ARCHIVED**: This project has been archived. Please use the [Next.js 16 Starter (tailwind)](https://github.com/siddharthamaity/nextjs-16-starter-tailwind) instead.
+
 ![MIT License](https://img.shields.io/badge/license-MIT-blue) [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) ![ESLint](https://img.shields.io/badge/code%20style-eslint-brightgreen) ![GitHub stars](https://img.shields.io/github/stars/siddharthamaity/nextjs-15-starter-tailwind?style=social) ![GitHub forks](https://img.shields.io/github/forks/siddharthamaity/nextjs-15-starter-tailwind?style=social) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/siddharthamaity)
 
 *This is the Tailwind version for Next.js 15 Starter, you may be interested in other templates too -*
